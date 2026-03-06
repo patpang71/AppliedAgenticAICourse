@@ -1,2 +1,2 @@
-# AppliedAgenticAICourse
-This repo contains the solutions for the assignments for Applied Agentic AI Course
+# AppliedAgenticAI
+This repo contains some of the projects I worked on for agentic AI
